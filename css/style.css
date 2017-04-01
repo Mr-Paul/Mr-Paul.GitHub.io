@@ -1,8 +1,10 @@
-.navbar {
+body {
+    font-family: sans-serif;
+    background-color: gainsboro;
 }
 .jumbotron {
 	color: white;
-	background-image: url("https://photos.smugmug.com/Portfolio/Still/Destinations/Nepal/i-MMsxDvq/1/XL/Thurong%20Pano%201-Edit-XL.jpg");
+	background-image: url("http://i.imgur.com/PPq64Mv.png?1");
 	background-size: cover;
 	background-position: center;
 	margin-bottom: 0px;
