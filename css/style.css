@@ -9,3 +9,6 @@ body {
 	background-position: center;
 	margin-bottom: 0px;
 }
+.thumb-height {
+    min-height: 450px;
+}
